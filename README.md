@@ -11,7 +11,7 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF7D00&random=false&width=435&lines=DON'T+FORGET+TO+CLICK+FOLLOW+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF7D00&random=false&width=435&lines=DON'T+FORGET+TO+CLICK+FOLLOW%F0%9F%98%8A)](https://git.io/typing-svg)
 
 
 ### 🐼 About Me :
