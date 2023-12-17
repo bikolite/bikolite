@@ -12,8 +12,13 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as a Front-end developer intern  at Devwavee Technology. Besides that, I love to develop my skills in Fullstack web development (PHP, Laravel). Other than that, I am a Freelance Web Developer at Fiverr where I have  different clients and more than 20+ projects completed.
+Hello . . .
+This is Mohammad Naeem Islam. I'm a Web Developer.
+And also a UI Designer. I will do all kinds of Backend Work. I Create different types of Dynamic Websites using PHP->Laravel.
 
+I'm an expert in creating (News, Education, Travel) or any type of blogger website. I will create Google friendly. All Websites will be Responsive and advanced.
+If you grow your business this time you must need a website.
+Looking Forward ... To work with you.
 
 ### 😎 Skillset :
 
