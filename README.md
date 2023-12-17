@@ -4,15 +4,12 @@
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFEB00&random=false&width=435&lines=I'M+CREATIVE;I'M+WEB+DEVELOPER;I'M+USING.....;PHP-%3ELARAVEL" alt="Typing SVG" /></a></h3>
 </div>
 
-<br/>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FF7D00&random=false&width=435&lines=DON'T+FORGET+TO+CLICK+FOLLOW%F0%9F%98%8A)](https://git.io/typing-svg)
 
 
 ### 🐼 About Me :
 
-Hello . . .
+Hello . . .<br/>
 This is Mohammad Naeem Islam. I'm a Web Developer.
 And also a UI Designer. I will do all kinds of Backend Work. I Create different types of Dynamic Websites using PHP->Laravel.
 
