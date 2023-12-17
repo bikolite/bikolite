@@ -11,7 +11,7 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=I'M+CREATIVE;I'M+WEB+DEVELOPER;I'M+USING.....;PHP-%3ELARAVEL)](https://git.io/typing-svg)
 
 
 ### 🐼 About Me :
