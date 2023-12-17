@@ -1,6 +1,6 @@
 <div align="center">
   
-![MOHAMMADNAEEM](gitartwork.svg)
+![NAEEM](gitartwork.svg)
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFEB00&random=false&width=435&lines=I'M+CREATIVE;I'M+WEB+DEVELOPER;I'M+USING.....;PHP-%3ELARAVEL" alt="Typing SVG" /></a></h3>
 </div>
 
