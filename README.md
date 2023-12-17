@@ -11,7 +11,7 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=I'M+CREATIVE;I'M+WEB+DEVELOPER;I'M+USING.....;PHP-%3ELARAVEL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF7D00&random=false&width=435&lines=DON'T+FORGET+TO+CLICK+FOLLOW+😊)](https://git.io/typing-svg)
 
 
 ### 🐼 About Me :
