@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
 <h3>💫 About Me:</h3>
-Welcome to my GitHub Portfolio! <br>I'm Mohammad Naeem Islam, a passionate professional designer with 3years of industry experience.<br><br>Proficient in [Figma, HTML, CSS, JavaScript, Ajax, PHP, Laravel], I continuously explore new trends and techniques to deliver designs that are both contemporary and timeless.<br><br>Thank you.<br>Looking forward to working with you.
+Welcome to my GitHub Portfolio! <br>I'm Mohammad Naeem Islam, a passionate professional designer with 3years of industry experience.<br>Proficient in [Figma, HTML, CSS, JavaScript, Ajax, PHP, Laravel], I continuously explore new trends and techniques to deliver designs that are both contemporary and timeless.<br><br>Thank you.<br>Looking forward to working with you.
 
 
 ## 🌐 Socials:
