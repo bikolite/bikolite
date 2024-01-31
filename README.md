@@ -2,7 +2,8 @@
 <div align="center"> <img src="https://github.com/bikolite/bikolite/blob/main/github-banner.jpg"> </div>
 <!-- <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-# 💫 About Me:
+
+<h3>💫 About Me:</h3>
 Welcome to my GitHub Portfolio! <br>I'm Mohammad Naeem Islam, a passionate professional designer with 3years of industry experience.
 
 
